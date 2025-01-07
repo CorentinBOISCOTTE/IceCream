@@ -1,7 +1,7 @@
 # IceCreamRush
 ![Image](Screenshots/01.png)
 
-IceCreamRush is a little game made by 4 developpers in 5 days in Unity. The game had a predefined theme, "Summer" which we had to take into account while making the game.  
+IceCreamRush is a little mobile game made by 4 developpers in 5 days in Unity. The game had a predefined theme, "Summer" which we had to take into account while making the game.  
 A final constraint we had is that this game should be played on mobile.  
   
 ### Presentation
@@ -39,5 +39,5 @@ Since this game was made in 5 days, we think it is important to talk about certa
 ### Authors
 Maxime-Leguevacques  
 Christophe Huang  
-Corentin Boiscotte  
+Corentin Bois Cotte  
 Maxence Lieval  
