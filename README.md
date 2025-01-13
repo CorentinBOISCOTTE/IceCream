@@ -26,7 +26,7 @@ Since this game was made in 5 days, we think it is important to talk about certa
 ![bird](Screenshots/bird.png)
   - **Ice cream truck** which spawns randomly and goes to different places one you've picked it up.
 ![ice_cream_truck](Screenshots/ice_cream_truck.png)
-- UI
+- UIfregse
   - **Main Menu** with a start and exit button.
   - **Joystick & Settings icon**.
 - Audio
